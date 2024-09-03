@@ -1,5 +1,5 @@
 - 👋 Welcome, I’m Shaimaa Eid
-- 👀 I’m interested in all about artificial intelligence and technologyز 
+- 👀 I’m interested in all about artificial intelligence and technology.
 - 🌱 I’m currently learning arduino coding.
 
 <!---
